@@ -1,2 +1,2 @@
-def print_funny_story():
-    print("Once my friend Adam slipped on the sidewalk")
+def childhood_memory():
+    print("I once was a child")
